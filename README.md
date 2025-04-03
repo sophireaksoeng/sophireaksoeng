@@ -21,8 +21,7 @@ Welcome to my GitHub profile! I'm a dedicated developer with a strong focus on c
 
 ## Projects I'm Working On:
 - **End-to-End Encryption**: Uses RSA or AES encryption to encrypt files before uploading and decrypt them when downloading.
-- **SMB**: A React.js, Node.js app for managing courses.
-- **Brute Force**: Batchfile cybersecurity Education.
+- **Reconnaissance**: Scan for open ports, vulnerable services, and subdomains.v
 - **Exploitation**: Simulate network exploitation and attacks such as SQL Injection and XSS.
 - **Post-Exploitation**: Simulate lateral movement and data exfiltration within a network.
 - **Reporting**: Generate comprehensive reports on findings and exploited vulnerabilities.

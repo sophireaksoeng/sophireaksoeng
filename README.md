@@ -16,19 +16,12 @@ Welcome to my GitHub profile! I'm a developer with a strong focus on cybersecuri
 - **Cybersecurity** (Red Team Focus)
 - **Cloud Security** (Cloud Pen Testing)
 
-💬 Feel free to reach out if you're interested in collaborating or discussing cybersecurity tactics!
-
-📫 How to reach me:
-- Email: [sophireaksoeng@gmail.com]
-
 ## Projects I'm Working On:
 - **End-to-End Encryption**: Implementing RSA and AES encryption to secure file uploads and downloads.
 - **Reconnaissance**: Developing tools to scan for open ports, vulnerable services, and subdomains.
 - **Exploitation**: Building simulations of network exploitation and attacks (SQL Injection, XSS).
 - **Post-Exploitation**: Automating lateral movement and data exfiltration in compromised networks.
 - **Reporting**: Generating detailed reports on vulnerabilities, attack vectors, and exploited weaknesses.
-
-
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_title=true&hide=prs&hide_border=true)

@@ -24,5 +24,6 @@ I'm a developer who enjoys building apps, learning about **cybersecurity**, and 
 - **Reporting**: Generating detailed reports on vulnerabilities, attack vectors, and exploited weaknesses.
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_title=true&hide=prs&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sophireaksoeng&show_icons=true&theme=radical&hide_title=true&hide=prs&hide_border=true)
+
 

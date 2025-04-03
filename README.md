@@ -35,7 +35,8 @@ Welcome to my GitHub profile! I'm a dedicated developer with a strong focus on c
 - I love  **Cars** and  **Cyber Fields** 
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true&hide=prs&hide_border=true)
+
 
 
 

@@ -29,8 +29,6 @@ Welcome to my GitHub profile! I'm a developer with a strong focus on cybersecuri
 - **Reporting**: Generating detailed reports on vulnerabilities, attack vectors, and exploited weaknesses.
 
 
-## Fun Fact:
-- I have a deep passion for **Cybersecurity** and **Cars**—both require precision, attention to detail, and a love for pushing limits.
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_title=true&hide=prs&hide_border=true)

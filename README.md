@@ -33,4 +33,5 @@ Welcome to my GitHub profile! I'm a passionate Red Team operator with a focus on
 - I have a deep passion for **Cybersecurity** and **Cars**—both require precision, attention to detail, and a love for pushing limits.
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=0d1117,000000&title_color=ff4f4f&text_color=ffffff&icon_color=ff4f4f&hide_title=true&hide=prs&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_title=true&hide=prs&hide_border=true)
+

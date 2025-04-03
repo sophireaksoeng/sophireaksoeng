@@ -1,6 +1,6 @@
 # Hello, I'm Sophireak 🔴🛡️
 
-Welcome to my GitHub profile! I'm a developer with a strong focus on cybersecurity and Red Team operations. My work revolves around building secure, efficient, and scalable software, with an emphasis on offensive security practices. I'm passionate about exploring vulnerabilities, simulating attacks, and working on solutions that strengthen systems against cyber threats. When I'm not coding, I'm diving deep into cybersecurity research, tackling real-world challenges, and contributing to open-source projects to help others in the field.
+I'm a developer who enjoys building apps, learning about **cybersecurity**, and exploring **cryptography**.
 
 ## 🚀 Technologies & Tools:
 - **Languages**: JavaScript (React.js, Node.js), Java, Python, Bash
@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a developer with a strong focus on cybersecuri
 
 ## 🌱 Currently Learning:
 - **Web** & **Mobile DevOps**
-- **Cybersecurity** (Red Team Focus)
-- **Cloud Security** (Cloud Pen Testing)
+- **Cybersecurity** 
+- **Cloud** 
 
 ## Projects I'm Working On:
 - **End-to-End Encryption**: Implementing RSA and AES encryption to secure file uploads and downloads.

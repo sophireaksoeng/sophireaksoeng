@@ -1,6 +1,7 @@
-# Hello, I'm sophireak👋
+# Hello, I'm sophireak🔴🛡️
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on building secure, efficient, and scalable applications. I love exploring new technologies and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a dedicated developer with a strong focus on crafting secure, efficient, and scalable software solutions. I enjoy diving into new technologies, solving complex problems, and contributing to the open-source community to help drive innovation and collaboration.
+
 
 ## 🚀 Technologies & Tools:
 - **Languages**: JavaScript (React.js, Node.js), Java, Python
@@ -9,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 - **Security**: RSA, AES encryption
 
 ## 🌱 Currently Learning:
-- **Blockchain** & **Smart Contracts**
-- **Machine Learning** & **AI**
-- **Cybersecurity** Best Practices
+- **Web** & **Mobile Devops**
+- **Cybersecurity**
+- **Cloud Computing**
 
 💬 Feel free to reach out if you're interested in collaborating or discussing tech!
 
@@ -19,12 +20,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 - Email: [sophireaksoeng@gmail.com]
 
 ## Projects I'm Working On:
-- **RSA Encryption in Java**: A project on cryptography and secure communication.
+- **End-to-End Encryption**: Uses RSA or AES encryption to encrypt files before uploading and decrypt them when downloading.
 - **SMB**: A React.js, Node.js app for managing courses.
 - **Brute Force**: Batchfile cybersecurity Education.
-
+- **Exploitation**: Simulate network exploitation and attacks such as SQL Injection and XSS.
+- **Post-Exploitation**: Simulate lateral movement and data exfiltration within a network.
+- **Reporting**: Generate comprehensive reports on findings and exploited vulnerabilities.
+  
+## Tech Stack:
+- **Language**: Python
+- **Tools**: Nmap, Metasploit, Gobuster, Responder
+- **Framework**: Empire (for post-exploitation)
+- **Reporting**: Markdown, LaTeX
 ## Fun fact:
-- I love playing **Jedi Survival** and tuning my **BMW F82 M4** for better performance!
+- I love  **Cars** and  **Cyber Fields** 
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?sophiireaksoeng=sophireaksoeng&show_icons=true&hide_title=true&hide=prs)

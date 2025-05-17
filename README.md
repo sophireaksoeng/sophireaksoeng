@@ -14,7 +14,6 @@ I'm a developer who enjoys building apps, learning about **cybersecurity**, and 
 ## 🌱 Currently Learning:
 - **Web** & **Mobile DevOps**
 - **Cybersecurity** 
-- **Cloud** 
 
 ## Projects I'm Working On:
 - **End-to-End Encryption**: Implementing RSA and AES encryption to secure file uploads and downloads.

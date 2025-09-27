@@ -1,6 +1,6 @@
 # Hello, I'm Sophireak🔴🛡️
 
-I'm a dev/RedTeam who enjoys building small project, learning about **cybersecurity**, and exploring **Something new about Cyber Sexc**.
+I'm a dev/RedTeam who enjoys building small project, learning about **cybersecurity**, and exploring **Something new about Cyber**.
 
 ## 🚀 Technologies & Tools:
 - **Languages**: JavaScript (React.js, Node.js), Java, Python, Bash , 

@@ -1,9 +1,9 @@
-# Hello, I'm Zeroentr0py🔴🛡️
+# Hello, I'm Sophireak🔴🛡️
 
-I'm a developer who enjoys building apps, learning about **cybersecurity**, and exploring **cryptography**.
+I'm a dev/RedTeam who enjoys building small project, learning about **cybersecurity**, and exploring **Something new about Cyber Sexc**.
 
 ## 🚀 Technologies & Tools:
-- **Languages**: JavaScript (React.js, Node.js), Java, Python, Bash
+- **Languages**: JavaScript (React.js, Node.js), Java, Python, Bash , 
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, Kubernetes
 - **Security**: RSA, AES encryption, Metasploit, Nmap, Gobuster, Burp Suite , Hydra

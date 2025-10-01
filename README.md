@@ -29,7 +29,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left"><b>Sophireak</b> — Dev × Red Team. I break things (with permission) and ship secure, minimal tools.</p>
+<p align="left"><b>I'm</b> — Dev × Red Team. I break things (with permission) and ship secure, minimal tools.</p>
 
 <ul>
   <li><b>Focus</b>: Recon → Exploit → Post‑Exploit → Report.</li>

@@ -13,31 +13,23 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sophireaksoeng.sophireaksoeng" alt="visitors" />
-</div>
+<h1 align="center">Hello, I'm Sophireak</h1>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?duration=2600&pause=500&color=46A6FF&center=true&vCenter=true&width=720&lines=Red+Team+%7C+Developer;Recon+•+Exploitation+•+Post%E2%80%91Exploitation;Clean+Reports+%7C+Authorized+Testing+Only" alt="typing animation"/> </p
 
 ###
 
-<h1 align="center">Hello, I'm Sophireak 🔴🛡️</h1>
+<h3 align="left">  About Me</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2600&pause=500&color=46A6FF&center=true&vCenter=true&width=720&lines=Red+Team+%7C+Developer;Recon+•+Exploitation+•+Post%E2%80%91Exploitation;Clean+Reports+%7C+Authorized+Testing+Only" alt="typing animation"/>
-</p>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left"><b>I'm</b> — Dev × Red Team. I break things (with permission) and ship secure, minimal tools.</p>
+<p align="left">Dev × Red Team. I break things (with permission) and ship secure, minimal tools.</p>
 
 <ul>
-  <li><b>Focus</b>: Recon → Exploit → Post‑Exploit → Report.</li>
+  <li><b>Focus</b>: Recon → Exploit → Post-Exploit → Report.</li>
   <li><b>Builds</b>: small CLI utilities, lab targets, Markdown/LaTeX report templates.</li>
   <li><b>Stack</b>: JS/React/Node · Java · Python · Bash · MySQL/MongoDB · Git/Docker/K8s.</li>
   <li><b>Security</b>: RSA/AES · Metasploit · Burp Suite · Nmap · Gobuster · Hydra · Empire.</li>
   <li><b>Values</b>: clarity, reproducibility, and written scope for every engagement.</li>
-  <li><b>Now</b>: Web/Mobile DevOps + automation for red‑team workflows.</li>
+  <li><b>Now</b>: Web/Mobile DevOps + automation for red-team workflows.</li>
 </ul>
 
 <h3 align="left">🛠 Languages & Tools</h3>
@@ -70,7 +62,7 @@
 
 ###
 
-<h3 align="left">🧰 Security Toolkit</h3>
+<h3 align="left"> Security Toolkit</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-0B7285?style=flat" />
@@ -84,18 +76,18 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left"> My Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sophireaksoeng&theme=tokyonight&hide_border=false&border_radius=10" height="210" alt="streak graph" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sophireaksoeng&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&cache_seconds=7200" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophireaksoeng&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=7200" height="165" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sophireaksoeng&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=14400" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophireaksoeng&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=14400" height="165" alt="top languages" />
 </div>
 
 ###
 
-<h3 align="left">🔐 Policy</h3>
+<h3 align="left"> Policy</h3>
 
 * Tests only with explicit permission.
 * Content and tools are for education and defense.
@@ -103,7 +95,7 @@
 
 ###
 
-<h3 align="left">📬 Contact</h3>
+<h3 align="left"> Contact</h3>
 
 * Email: <a href="mailto:sophireaksoeng@gmail.com">[sophireaksoeng@gmail.com](mailto:sophireaksoeng@gmail.com)</a>
 

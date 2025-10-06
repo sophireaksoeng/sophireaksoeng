@@ -24,11 +24,9 @@
 └─$ echo "Dev × Red Team. I break things (with permission) and ship small, secure tools."
 </pre>
 
-- **Loop:** Recon → Exploit → Post-Exploit → Report  
-- **Now:** Web/Mobile DevOps + automation for red-team workflows  
-- **Values:** clarity, reproducibility, written scope  
-
-
+- **Loop:** Recon → Exploit → Post-Exploit → Report
+- **Now:** DevOps (web/mobile) + automation for red-team workflows; building **PurpleLab-in-a-Box** (local ATT&CK emulation + OpenSearch dashboards) and a **Kotlin** mobile app Notify(Small version of notion)
+- **Values:** clarity · reproducibility · scoped engagements
 
 <!-- ╔═══════════════════ CAPABILITIES ═════════════════════╗ -->
 ### ▎capabilities

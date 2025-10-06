@@ -24,7 +24,7 @@
 └─$ echo "Dev × Red Team. I break things (with permission) and ship small, secure tools."
 </pre>
 
-- **Loop:** Recon → Exploit → Post-Exploit → Report
+- **Loop:** Plan → Recon → Exploit → Post-Exploit → Collect → Detect → Report
 - **Now:** DevOps (web/mobile) + automation for red-team workflows; building **PurpleLab-in-a-Box** (local ATT&CK emulation + OpenSearch dashboards) and a **Kotlin** mobile app Notify(Small version of notion)
 - **Values:** clarity · reproducibility · scoped engagements
 

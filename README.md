@@ -37,7 +37,7 @@
 
 <!-- ╔═══════════════════ TOOLBOX ══════════════════════════╗ -->
 ### ▎toolbox
-**Stack:** JS/React/Node · Java · Python · Bash · MySQL/MongoDB · Git/Docker/K8s · Linux · Nessus
+**Stack:** JS/React/Node · Java · Python · Bash · MySQL/MongoDB · Git/Docker/K8s · Linux 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="JavaScript"/>

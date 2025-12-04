@@ -5,7 +5,6 @@
 <h1 align="center"><code>root@sophireak</code> <sub>↯</sub> Red Team </h1>
 <p align="center">
   <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ONLINE-00FF88?style=for-the-badge&logo=linkedin&logoColor=111&labelColor=0b0f14"/></a>
-  <a href="#"><img alt="YouTube"  src="https://img.shields.io/badge/YouTube-BROADCAST-FF2E63?style=for-the-badge&logo=youtube&logoColor=111&labelColor=0b0f14"/></a>
   <a href="#"><img alt="X"        src="https://img.shields.io/badge/X-SIGNAL-9AA0A6?style=for-the-badge&logo=x&logoColor=111&labelColor=0b0f14"/></a>
   <a href="mailto:sophireaksoeng@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-ARMED-00E5FF?style=for-the-badge&logo=gmail&logoColor=111&labelColor=0b0f14"/></a>
 </p>

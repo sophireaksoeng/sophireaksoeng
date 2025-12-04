@@ -1,9 +1,7 @@
-<!-- ╔═══════════════════ HACKLAB BANNER ═══════════════════╗ -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="matrix scan banner"/>
 </p>
-
-<!-- ╔═══════════════════ TITLE / BADGES ═══════════════════╗ -->
 <h1 align="center"><code>root@sophireak</code> <sub>↯</sub> Red Team </h1>
 <p align="center">
   <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ONLINE-00FF88?style=for-the-badge&logo=linkedin&logoColor=111&labelColor=0b0f14"/></a>
@@ -11,14 +9,12 @@
   <a href="#"><img alt="X"        src="https://img.shields.io/badge/X-SIGNAL-9AA0A6?style=for-the-badge&logo=x&logoColor=111&labelColor=0b0f14"/></a>
   <a href="mailto:sophireaksoeng@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-ARMED-00E5FF?style=for-the-badge&logo=gmail&logoColor=111&labelColor=0b0f14"/></a>
 </p>
-<!-- ╔═══════════════════ STATUS TICKER ════════════════════╗ -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?duration=2400&pause=400&color=00FF88&center=true&vCenter=true&width=720&lines=Recon+%E2%86%92+Exploitation+%E2%86%92+Post%E2%80%91Exploitation+%E2%86%92+Report;Clean+Reports+%7C+Authorized+Testing+Only;Build+Small%2C+Secure+Tools"
     alt="status typing"
   />
 </p>
-<!-- ╔═══════════════════ WHOAMI ═══════════════════════════╗ -->
 <pre>
 ┌──(whoami㉿sophireak)-[~/]
 └─$ echo "Dev × Red Team. I break things (with permission) and ship small, secure tools."
@@ -28,14 +24,12 @@
 - **Now:** DevOps (web/mobile) + automation for red-team workflows; building **PurpleLab-in-a-Box** (local ATT&CK emulation + OpenSearch dashboards) and a **Kotlin** mobile app Notify(Small version of notion)
 - **Values:** clarity · reproducibility · scoped engagements
 
-<!-- ╔═══════════════════ CAPABILITIES ═════════════════════╗ -->
 ### ▎capabilities
 - External / internal recon, service enumeration, and attack surface triage  
 - Initial access & controlled exploitation within **written scope**  
 - Post-exploitation notes, artifact collection, and repeatable PoC scripts  
 - Clean Markdown/LaTeX reporting with evidence and remediation paths
 
-<!-- ╔═══════════════════ TOOLBOX ══════════════════════════╗ -->
 ### ▎toolbox
 **Stack:** JS/React/Node · Java · Python · Bash · MySQL/MongoDB · Git/Docker/K8s · Linux 
 
@@ -61,16 +55,20 @@
   <img src="https://img.shields.io/badge/Hydra-4A4E69?style=flat&labelColor=0b0f14" alt="Hydra"/>
   <img src="https://img.shields.io/badge/Empire-111111?style=flat&labelColor=0b0f14" alt="Empire"/>
   <img src="https://img.shields.io/badge/Crypto-RSA%20%7C%20AES-00E5FF?style=flat&labelColor=0b0f14" alt="Crypto"/>
+  <img src="https://img.shields.io/badge/Tcpdump-E5A00D?style=flat&labelColor=0b0f14" alt="Tcpdump"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-005C9C?style=flat&labelColor=0b0f14" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Nikto-212121?style=flat&labelColor=0b0f14" alt="Nikto"/>
+  <img src="https://img.shields.io/badge/Hashcat-D9534F?style=flat&labelColor=0b0f14" alt="Hashcat"/>
+  <img src="https://img.shields.io/badge/BloodHound-76FF03?style=flat&labelColor=0b0f14" alt="BloodHound"/>
+  <img src="https://img.shields.io/badge/CTF_Player-E91E63?style=flat&labelColor=0b0f14" alt="CTF"/>
 </p>
 
-<!-- ╔═══════════════════ ENGAGEMENT MODEL ═════════════════╗ -->
 ### ▎engagement_model
 1. **Scope** → assets, constraints, success criteria, comms  
 2. **Plan** → rules-of-engagement, test windows, evidence format  
 3. **Execute** → logging on, minimal impact, reversible changes  
 4. **Report** → reproducible steps, risk, and prioritized fixes
 
-<!-- ╔═══════════════════ TELEMETRY (LAZY) ═════════════════╗ -->
 <details>
   <summary><b>telemetry</b> (click to load)</summary>
   <br/>
@@ -82,13 +80,11 @@
   </p>
 </details>
 
-<!-- ╔═══════════════════ POLICY ═══════════════════════════╗ -->
 ### ▎policy
 - Tests only with **explicit permission**  
 - Education & defense only  
 - Define **scope** and success criteria up front
 
-<!-- ╔═══════════════════ CONTACT ══════════════════════════╗ -->
 ### ▎contact
 - **Email:** <a href="mailto:sophireaksoeng@gmail.com">sophireaksoeng@gmail.com</a>  
 - Collabs via Issues/Discussions

@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="matrix scan banner"/>
 </p>
-<h1 align="center"><code>root@sophireak</code> <sub>↯</sub> Red Team </h1>
+<h1 align="center"><code>root@sophireak</code> <sub>↯</sub> Jr Pentest </h1>
 <p align="center">
   <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ONLINE-00FF88?style=for-the-badge&logo=linkedin&logoColor=111&labelColor=0b0f14"/></a>
   <a href="#"><img alt="X"        src="https://img.shields.io/badge/X-SIGNAL-9AA0A6?style=for-the-badge&logo=x&logoColor=111&labelColor=0b0f14"/></a>
@@ -16,11 +16,11 @@
 </p>
 <pre>
 ┌──(whoami㉿sophireak)-[~/]
-└─$ echo "Dev × Red Team. I break things (with permission) and ship small, secure tools."
+└─$ echo "cybersecurity Learner. I break things (with permission) and ship small, secure tools."
 </pre>
 
 - **Loop:** Plan → Recon → Exploit → Post-Exploit → Collect → Detect → Report
-- **Now:** DevOps (web/mobile) + automation for red-team workflows; building **PurpleLab-in-a-Box** (local ATT&CK emulation + OpenSearch dashboards) and a **Kotlin** mobile app Notify(Small version of notion)
+- **Now:**  automation for red-team workflows; building **PurpleLab-in-a-Box** (local ATT&CK emulation + OpenSearch dashboards) and flag hunter ,CTF
 - **Values:** clarity · reproducibility · scoped engagements
 
 ### ▎capabilities

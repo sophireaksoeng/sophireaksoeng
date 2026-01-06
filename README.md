@@ -1,91 +1,108 @@
+<p align="center">
+ <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="matrix scan banner"/>
+</p>
+
+<h1 align="center"><code>root@sophireak</code> <sub>↯</sub></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="matrix scan banner"/>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:sophireaksoeng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-<h1 align="center"><code>root@sophireak</code> <sub>↯</sub>  </h1>
-<p align="center">
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ONLINE-00FF88?style=for-the-badge&logo=linkedin&logoColor=111&labelColor=0b0f14"/></a>
-  <a href="#"><img alt="X"        src="https://img.shields.io/badge/X-SIGNAL-9AA0A6?style=for-the-badge&logo=x&logoColor=111&labelColor=0b0f14"/></a>
-  <a href="mailto:sophireaksoeng@gmail.com"><img alt="Email" src="https://img.shields.io/badge/MAIL-ARMED-00E5FF?style=for-the-badge&logo=gmail&logoColor=111&labelColor=0b0f14"/></a>
-</p>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?duration=2400&pause=400&color=00FF88&center=true&vCenter=true&width=720&lines=Recon+%E2%86%92+Exploitation+%E2%86%92+Post%E2%80%91Exploitation+%E2%86%92+Report;Clean+Reports+%7C+Authorized+Testing+Only;Build+Small%2C+Secure+Tools"
-    alt="status typing"
-  />
-</p>
+
+<br />
+
+
 <pre>
-┌──(whoami㉿sophireak)-[~/]
-└─$ echo "cybersecurity Learner. I break things (with permission) and ship small, secure tools."
+<b>user@sophireak:~/research_focus$</b> cat current_objectives.txt
+> <b>Primary:</b> eBPF-Based Kernel Stealth & Visibility Manipulation
+> <b>Secondary:</b> CompTIA Security+ & Advanced CTF Exploitation
+> <b>Values:</b> clarity · reproducibility · scoped experimentation
 </pre>
 
-- **Loop:** Plan → Recon → Exploit → Post-Exploit → Collect → Detect → Report
-- **Now:**  automation for red-team workflows; building **PurpleLab-in-a-Box** (local ATT&CK emulation + OpenSearch dashboards) and flag hunter ,CTF
-- **Values:** clarity · reproducibility · scoped engagements
-
-### ▎capabilities
-- External / internal recon, service enumeration, and attack surface triage  
-- Initial access & controlled exploitation within **written scope**  
-- Post-exploitation notes, artifact collection, and repeatable PoC scripts  
-- Clean Markdown/LaTeX reporting with evidence and remediation paths
-
-### ▎toolbox
-**Stack:** JS/React/Node · Java · Python · Bash · MySQL/MongoDB · Git/Docker/K8s · Linux 
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="26" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="26" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="26" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="26" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="26" alt="Linux"/>
+<br />
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  <br>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-00FF88?style=flat&labelColor=0b0f14" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF9F1C?style=flat&labelColor=0b0f14" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-9AA0A6?style=flat&labelColor=0b0f14" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Gobuster-6C757D?style=flat&labelColor=0b0f14" alt="Gobuster"/>
-  <img src="https://img.shields.io/badge/Hydra-4A4E69?style=flat&labelColor=0b0f14" alt="Hydra"/>
-  <img src="https://img.shields.io/badge/Empire-111111?style=flat&labelColor=0b0f14" alt="Empire"/>
-  <img src="https://img.shields.io/badge/Crypto-RSA%20%7C%20AES-00E5FF?style=flat&labelColor=0b0f14" alt="Crypto"/>
-  <img src="https://img.shields.io/badge/Tcpdump-E5A00D?style=flat&labelColor=0b0f14" alt="Tcpdump"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-005C9C?style=flat&labelColor=0b0f14" alt="OWASP ZAP"/>
-  <img src="https://img.shields.io/badge/Nikto-212121?style=flat&labelColor=0b0f14" alt="Nikto"/>
-  <img src="https://img.shields.io/badge/Hashcat-D9534F?style=flat&labelColor=0b0f14" alt="Hashcat"/>
-  <img src="https://img.shields.io/badge/BloodHound-76FF03?style=flat&labelColor=0b0f14" alt="BloodHound"/>
-  <img src="https://img.shields.io/badge/CTF_Player-E91E63?style=flat&labelColor=0b0f14" alt="CTF"/>
+###  `~/capabilities`
+
+- **Reconnaissance:** Attack surface assessment and service enumeration.
+- **Controlled Exploitation:** Technique validation within strict, **well-defined scopes**.
+- **Post-Exploitation:** Artifact collection and detection engineering analysis.
+- **Reporting:** Structured Markdown/LaTeX documentation with remediation guidance.
+
+---
+
+###  `./toolbox.sh`
+
+<table align="center">
+  <tr>
+    <th align="center">LOW-LEVEL & KERNEL</th>
+    <th align="center">OFFENSIVE OPS (CTF/LAB)</th>
+    <th align="center">TELEMETRY & ANALYSIS</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <br />
+      <img src="https://img.shields.io/badge/eBPF-Research-ff0000?style=flat-square" alt="eBPF"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+      <br/>
+      <sub>Syscalls · Kprobes · Memory</sub>
+    </td>
+    <td align="center" valign="top">
+       <img src="https://img.shields.io/badge/Metasploit-333333?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+       <img src="https://img.shields.io/badge/Burp%20Suite-EB5424?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+       <br />
+       <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+       <img src="https://img.shields.io/badge/BloodHound-AD-000000?style=flat-square" alt="Bloodhound"/>
+       <br/>
+       <sub>PrivEsc · Web · Active Directory</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+      <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ELK"/>
+      <br/>
+      <img src="https://img.shields.io/badge/YARA-Rules-000000?style=flat-square" alt="YARA"/>
+      <img src="https://img.shields.io/badge/Tcpdump-Packet-000000?style=flat-square" alt="Tcpdump"/>
+      <br/>
+       <sub>Detection Eng · Forensics</sub>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <i>Infrastructure & Reproducibility:</i><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### ▎engagement_model
-1. **Scope** → assets, constraints, success criteria, comms  
-2. **Plan** → rules-of-engagement, test windows, evidence format  
-3. **Execute** → logging on, minimal impact, reversible changes  
-4. **Report** → reproducible steps, risk, and prioritized fixes
+---
 
-<details>
-  <summary><b>telemetry</b> (click to load)</summary>
-  <br/>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=sophireaksoeng&theme=tokyonight&hide_border=false&border_radius=10" height="180" alt="streak graph"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=sophireaksoeng&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=14400" height="160" alt="stats graph"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophireaksoeng&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=14400" height="160" alt="top languages"/>
-  </p>
-</details>
+###  `/etc/policy.conf` & `contact`
 
-### ▎policy
-- Tests only with **explicit permission**  
-- Education & defense only  
-- Define **scope** and success criteria up front
+<table>
+  <tr>
+    <td>
+      <b>Engagement Policy:</b><br>
+      - Tests performed only with <b>explicit permission</b>.<br>
+      - Focus on education and defense.<br>
+      - Define scope and success criteria up front.
+    </td>
+    <td>
+      <b>Connection:</b><br>
+       <a href="mailto:sophireaksoeng@gmail.com">sophireaksoeng@gmail.com</a><br>
+       Collabs via Issues/Discussions
+    </td>
+  </tr>
+</table>
 
-### ▎contact
-- **Email:** <a href="mailto:sophireaksoeng@gmail.com">sophireaksoeng@gmail.com</a>  
-- Collabs via Issues/Discussions
+<br />
 
-<p align="center"><sub>clean code ▪ clear reports ▪ continuous learning</sub></p>
+<p align="center"><code>/* --- kernel panic: end of file --- */</code></p>
+
